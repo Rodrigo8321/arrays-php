@@ -12,7 +12,7 @@ $alunos = [
   [
     "nome" => "Carlos Pereira",
     "rm" => "67890",
-    "email" => "carlos.pereira",
+    "email" => "carlos.pereira@email.com",
     "notas" => [5.0, 4.5, 6.0]
   ],
   [
@@ -24,7 +24,7 @@ $alunos = [
   [
     "nome" => "Maria Santos",
     "rm" => "09876",
-    "email" => "maria.santos@email.com,",
-    "notas" => [2.0, 5.0, 4, 5]
+    "email" => "maria.santos@email.com.",
+    "notas" => [2.0, 5.0, 4.5]
   ]
 ];
