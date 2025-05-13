@@ -3,7 +3,7 @@
 require_once "media.php";
 require_once "dados.php";
 
-foreach ($alunos as $alunos) {
+foreach ($alunos as $aluno) {
   $media = calcularMedia($alunos['notas']);
   $situacao = $media >= 6.0 ? "Aprovado" : "Reprovado";
 
