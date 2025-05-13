@@ -24,7 +24,7 @@ $alunos = [
   [
     "nome" => "Maria Santos",
     "rm" => "09876",
-    "email" => "maria.santos@email.com.",
+    "email" => "maria.santos@email.com",
     "notas" => [2.0, 5.0, 4.5]
   ]
 ];
